@@ -1,0 +1,21 @@
+{
+  "name": "devconnector",
+  "version": "1.0.0",
+  "description": "A Developer Social Network",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "watch": "node --watch server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImranullahKhann/DevConnector-A-Developer-Social-Network.git"
+  },
+  "author": "ImranullahKhann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ImranullahKhann/DevConnector-A-Developer-Social-Network/issues"
+  },
+  "homepage": "https://github.com/ImranullahKhann/DevConnector-A-Developer-Social-Network#readme"
+}

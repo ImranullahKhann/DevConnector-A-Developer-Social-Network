@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    gap: 2rem;
+}
+
+header {
+    background-color: cornflowerblue;
+    color: antiquewhite;
+    width: 100%;
+}
+
+.container {
+    width: 200px;
+    height: 200px;
+    align-self: center;
+}
+
+.btn {
+    width: 5rem;
+    height: 5rem;
+    align-self: center;
+}
+
+.red {
+    background-color: red;
+}
